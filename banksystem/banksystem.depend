@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677154747 source:f:\nti\banksystem\main.c
+	"banksystem.h"
+
+1677154747 f:\nti\banksystem\banksystem.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
